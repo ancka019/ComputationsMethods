@@ -47,6 +47,7 @@ namespace hw2
 
             Console.WriteLine("ЗАДАЧА АЛГЕБРАИЧЕСКОГО ИНТЕРПОЛИРОВАНИЯ");
             Console.WriteLine("Вариант 7\n");
+            Console.WriteLine("exp(-x) - (x^2)/2\n");
             Console.WriteLine("Отрезок [a, b] = [{0}, {1}]", a, b);
             Console.WriteLine("Хотите изменить параметры a и b? YES/NO");
             string answ = Console.ReadLine();
@@ -220,7 +221,7 @@ namespace hw2
                 Console.WriteLine("Число значений в таблице: {0}", m + 1);
                 Console.WriteLine("Хотите изменить параметр m? YES/NO");
                 answ = Console.ReadLine();
-                if (answ == "YES")
+                if (answ == "y")
                 {
                     Console.WriteLine("Введите параметр m:");
                     m = Convert.ToInt32(Console.ReadLine());
