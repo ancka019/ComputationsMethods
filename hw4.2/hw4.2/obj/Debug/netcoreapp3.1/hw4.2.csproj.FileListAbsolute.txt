@@ -1,0 +1,13 @@
+/Users/anna/Projects/hw4.2/hw4.2/bin/Debug/netcoreapp3.1/hw4.2.deps.json
+/Users/anna/Projects/hw4.2/hw4.2/bin/Debug/netcoreapp3.1/hw4.2.runtimeconfig.json
+/Users/anna/Projects/hw4.2/hw4.2/bin/Debug/netcoreapp3.1/hw4.2.runtimeconfig.dev.json
+/Users/anna/Projects/hw4.2/hw4.2/bin/Debug/netcoreapp3.1/hw4.2.dll
+/Users/anna/Projects/hw4.2/hw4.2/bin/Debug/netcoreapp3.1/hw4.2.pdb
+/Users/anna/Projects/hw4.2/hw4.2/obj/Debug/netcoreapp3.1/hw4.2.csproj.AssemblyReference.cache
+/Users/anna/Projects/hw4.2/hw4.2/obj/Debug/netcoreapp3.1/hw4.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anna/Projects/hw4.2/hw4.2/obj/Debug/netcoreapp3.1/hw4.2.AssemblyInfoInputs.cache
+/Users/anna/Projects/hw4.2/hw4.2/obj/Debug/netcoreapp3.1/hw4.2.AssemblyInfo.cs
+/Users/anna/Projects/hw4.2/hw4.2/obj/Debug/netcoreapp3.1/hw4.2.csproj.CoreCompileInputs.cache
+/Users/anna/Projects/hw4.2/hw4.2/obj/Debug/netcoreapp3.1/hw4.2.dll
+/Users/anna/Projects/hw4.2/hw4.2/obj/Debug/netcoreapp3.1/hw4.2.pdb
+/Users/anna/Projects/hw4.2/hw4.2/obj/Debug/netcoreapp3.1/hw4.2.genruntimeconfig.cache
